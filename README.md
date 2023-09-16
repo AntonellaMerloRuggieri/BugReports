@@ -1,6 +1,7 @@
 # BugReports
 This is a list I made to have an easy access to all the bug reports I did.
 
+# Spanish
 * Accenture
 https://github.com/AntonellaMerloRuggieri/Accenture-bug-report
 
@@ -12,4 +13,6 @@ https://github.com/AntonellaMerloRuggieri/Tarjeta-Naranja
 
 * Uala:
 https://github.com/AntonellaMerloRuggieri/Etermax-Bug-Report
+
+# English
 
