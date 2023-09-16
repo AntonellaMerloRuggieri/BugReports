@@ -16,3 +16,5 @@ https://github.com/AntonellaMerloRuggieri/Etermax-Bug-Report
 
 # English
 
+* Etermax:
+https://github.com/AntonellaMerloRuggieri/EtermaxEnglish.git
