@@ -15,9 +15,13 @@ https://github.com/AntonellaMerloRuggieri/Tarjeta-Naranja
 https://github.com/AntonellaMerloRuggieri/Etermax-Bug-Report
 
 # English
+* Accenture
+https://github.com/AntonellaMerloRuggieri/AccentureWomenBug
 
 * Etermax:
 https://github.com/AntonellaMerloRuggieri/EtermaxEnglish.git
 
 * Uala:
 https://github.com/AntonellaMerloRuggieri/UalaReportEnglish
+
+
