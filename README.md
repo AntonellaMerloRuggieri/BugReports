@@ -18,3 +18,6 @@ https://github.com/AntonellaMerloRuggieri/Etermax-Bug-Report
 
 * Etermax:
 https://github.com/AntonellaMerloRuggieri/EtermaxEnglish.git
+
+* Uala:
+https://github.com/AntonellaMerloRuggieri/UalaReportEnglish
